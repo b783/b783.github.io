@@ -1,0 +1,26 @@
+
+body {
+    background-color: #EAF6F6;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 30%;
+}
+h1 {
+    color: rgb(104, 206, 172);
+}
+h3 {
+    color: rgb(100, 139, 126);
+}
+#heading {
+    color: blue;
+}
+/* Class*/
+.bacon {
+    color: #EAF6F6;
+}
+
